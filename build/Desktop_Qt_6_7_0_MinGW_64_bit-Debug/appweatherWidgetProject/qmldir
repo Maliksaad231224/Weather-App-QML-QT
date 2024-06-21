@@ -1,0 +1,4 @@
+module appweatherWidgetProject
+typeinfo appappweatherWidgetProject.qmltypes
+prefer :/appweatherWidgetProject/
+

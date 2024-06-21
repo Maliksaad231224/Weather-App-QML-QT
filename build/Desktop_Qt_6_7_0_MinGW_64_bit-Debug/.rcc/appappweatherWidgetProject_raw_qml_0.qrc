@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/appweatherWidgetProject/">
+    <file alias="main.qml">F:/appweatherWidgetProject/main.qml</file>
+    <file alias="mount.qrc">F:/appweatherWidgetProject/mount.qrc</file>
+  </qresource>
+</RCC>
+

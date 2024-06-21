@@ -1,0 +1,10 @@
+--bare
+-I
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.0/mingw_64/./qml
+--resource
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_appweatherWidgetProject.qrc
+--resource
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appappweatherWidgetProject_raw_qml_0.qrc
+F:/appweatherWidgetProject/main.qml

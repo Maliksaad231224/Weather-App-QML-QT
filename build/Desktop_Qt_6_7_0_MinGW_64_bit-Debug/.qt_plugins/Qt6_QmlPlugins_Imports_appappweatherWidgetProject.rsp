@@ -1,0 +1,14 @@
+-rootPath
+F:/appweatherWidgetProject
+-cmake-output
+-output-file
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appappweatherWidgetProject.cmake
+-importPath
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appweatherWidgetProject
+-importPath
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.0/mingw_64/./qml
+-qrcFiles
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_appweatherWidgetProject.qrc
+F:/appweatherWidgetProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appappweatherWidgetProject_raw_qml_0.qrc
